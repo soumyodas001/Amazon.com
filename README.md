@@ -1,4 +1,4 @@
 # Amazon.com
 Amazon Clone
 
-https://soumyodas001.github.io/Amazon.com/
+Website link : https://soumyodas001.github.io/Amazon.com/
