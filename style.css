@@ -346,7 +346,10 @@ body {
 }
 
 .box-content {
+    display: flex;
+    flex-direction: column;
     margin: 0px 20px;
+    height: 100%;
 }
 
 .box-content h2 {
@@ -355,13 +358,16 @@ body {
 }
 
 .box-content a {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
     text-decoration: none;
     color: #2162A1;
 }
 
 .box-img {
     background-size: cover;
-    height: 303.7px;
+    flex-grow: 1;
     background-position-x: center;
 }
 
